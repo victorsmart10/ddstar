@@ -1,2 +1,0 @@
-# ddstar
-say hi
